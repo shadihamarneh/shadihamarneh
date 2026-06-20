@@ -58,17 +58,22 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
 
 <img src="https://img.shields.io/badge/Apache%20Spark-111111?style=for-the-badge&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20Kafka-111111?style=for-the-badge&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Hadoop-111111?style=for-the-badge&logo=apachehadoop&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20NiFi-111111?style=for-the-badge&logo=apache&logoColor=white" />
 <br>
+<img src="https://img.shields.io/badge/Hadoop-111111?style=for-the-badge&logo=apachehadoop&logoColor=white" />
 <img src="https://img.shields.io/badge/Data%20Pipelines-111111?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 <img src="https://img.shields.io/badge/ETL-111111?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Distributed%20Computing-111111?style=for-the-badge&logo=apache&logoColor=white" />
 <br>
+<img src="https://img.shields.io/badge/Distributed%20Computing-111111?style=for-the-badge&logo=apache&logoColor=white" />
 <img src="https://img.shields.io/badge/Databricks-111111?style=for-the-badge&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/Data%20Warehousing-111111?style=for-the-badge&logo=snowflake&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/Streaming%20Data-111111?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Flow%20Automation-111111?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Ingestion-111111?style=for-the-badge&logo=apache&logoColor=white" />
 
 <br>
+
 
 ### Databases & Querying
 
