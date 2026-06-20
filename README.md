@@ -37,6 +37,10 @@ My work combines **mathematical modelling**, **programming**, **analytics**, and
 <img src="https://img.shields.io/badge/Tableau-111111?style=for-the-badge&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Streamlit-111111?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Visualization-111111?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Interactive%20Apps-111111?style=for-the-badge&logo=python&logoColor=white" />
 
 <br><br>
 
@@ -57,6 +61,19 @@ My work combines **mathematical modelling**, **programming**, **analytics**, and
 <table>
   <tr>
     <td width="50%">
+      <h3>Pokémon Streamlit Battle Simulator</h3>
+      <p>
+        A Python and Streamlit project built during my MSc Business Analytics & Data Science
+        at IE University. The app consists of an interactive Pokémon Battle Simulator.
+      </p>
+      <p>
+        <strong>Tech:</strong> Python, Streamlit, Interactive App Development
+      </p>
+      <a href="https://github.com/shadihamarneh/Pokemon-Streamlit-Project">
+        View Repository
+      </a>
+    </td>
+    <td width="50%">
       <h3>Guess Who? — Java Game</h3>
       <p>
         A fully functional Java game built for UBC CPSC 210 with save/load state,
@@ -66,6 +83,8 @@ My work combines **mathematical modelling**, **programming**, **analytics**, and
         View Project
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>Mathematical Modelling Suite</h3>
       <p>
@@ -84,8 +103,6 @@ My work combines **mathematical modelling**, **programming**, **analytics**, and
         MATH 461
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>Bot-Removal Compliance Tool</h3>
       <p>
@@ -93,11 +110,20 @@ My work combines **mathematical modelling**, **programming**, **analytics**, and
         removal from X/Twitter with EU regulatory compliance. Finished 4th place.
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
-      <h3>Additional Projects</h3>
+      <h3>Additional Python Projects</h3>
       <p>
-        Tic-Tac-Toe in Python, Connect 4 with GUI, solar system simulation,
-        and a three-lane obstacle-dodging game.
+        Tic-Tac-Toe, Connect 4 with GUI, deterministic modelling,
+        stochastic modelling, and data-driven modelling projects.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Additional Early Projects</h3>
+      <p>
+        Solar system simulation and a three-lane obstacle-dodging game
+        built using Microsoft Small Basic.
       </p>
     </td>
   </tr>
@@ -105,7 +131,32 @@ My work combines **mathematical modelling**, **programming**, **analytics**, and
 
 <br>
 
-## Certifications
+## Education
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>IE University</h3>
+      <p>
+        <strong>MSc Business Analytics & Data Science</strong><br>
+        Coursework in business analytics, statistical modelling, machine learning,
+        data visualization, and data-driven strategy.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>University of British Columbia</h3>
+      <p>
+        <strong>BSc Mathematics — Mathematical Computing</strong><br>
+        Coursework in linear programming, combinatorial optimization,
+        convex optimization, stochastic modelling, and data-driven modelling.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## Certifications & Coursework
 
 <img src="https://img.shields.io/badge/Cybersecurity%20Risk%20Management-111111?style=for-the-badge&logo=securityscorecard&logoColor=white" />
 <img src="https://img.shields.io/badge/Cybersecurity%20Standards%20%26%20Strategy-111111?style=for-the-badge&logo=owasp&logoColor=white" />
@@ -120,6 +171,10 @@ My work combines **mathematical modelling**, **programming**, **analytics**, and
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=shadihamarneh&theme=dark&hide_border=true&background=111111&ring=8fa37a&fire=d8d1c1&currStreakLabel=d8d1c1" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadihamarneh&layout=compact&theme=dark&hide_border=true&bg_color=111111&title_color=8fa37a&text_color=d8d1c1" />
 
 <br><br>
 
