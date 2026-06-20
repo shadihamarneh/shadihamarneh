@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1f2d1f&height=160&section=header&text=Shadi%20Hamarneh&fontSize=42&fontColor=d8d1c1&animation=fadeIn&fontAlignY=38&desc=Business%20Analytics%20-%20Data%20Science%20-%20Mathematical%20Computing%20-%20Cybersecurity&descAlignY=58&descSize=13" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1f2d1f&height=160&section=header&text=Shadi%20Hamarneh&fontSize=42&fontColor=d8d1c1&animation=fadeIn&fontAlignY=38&desc=Business%20Analytics%20-%20Data%20Science%20-%20Mathematical%20Computing%20-%20Data%20Engineering&descAlignY=58&descSize=13" />
 
 <br>
 
@@ -16,11 +16,13 @@
 
 I am a Business Analytics & Data Science master's student at **IE University** and a **UBC Mathematics alum** with a background in mathematical computing, optimization, stochastic modelling, software engineering, and data-driven problem solving.
 
-My work combines **mathematical modelling**, **programming**, **analytics**, and **cybersecurity strategy**. I enjoy building practical tools, exploring data, and applying computational methods to real-world problems.
+My work combines **mathematical modelling**, **programming**, **analytics**, **machine learning**, **data engineering**, and **cybersecurity strategy**. I enjoy building practical tools, exploring data, and applying computational methods to real-world problems.
 
 <br>
 
 ## Tech Stack
+
+### Programming & Software Development
 
 <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -33,13 +35,73 @@ My work combines **mathematical modelling**, **programming**, **analytics**, and
 <img src="https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks&logoColor=white" />
 <img src="https://img.shields.io/badge/Julia-111111?style=for-the-badge&logo=julia&logoColor=white" />
 <img src="https://img.shields.io/badge/Racket-111111?style=for-the-badge&logo=racket&logoColor=white" />
+
 <br>
+
+### Data Science, Machine Learning & Analytics
+
+<img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Machine%20Learning-111111?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Statistical%20Modelling-111111?style=for-the-badge&logo=rstudioide&logoColor=white" />
+<img src="https://img.shields.io/badge/Predictive%20Analytics-111111?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Data%20Cleaning-111111?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-111111?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Business%20Analytics-111111?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+
+<br>
+
+### Big Data & Data Engineering
+
+<img src="https://img.shields.io/badge/Apache%20Spark-111111?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-111111?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Hadoop-111111?style=for-the-badge&logo=apachehadoop&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Data%20Pipelines-111111?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/ETL-111111?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Distributed%20Computing-111111?style=for-the-badge&logo=apache&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Databricks-111111?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Warehousing-111111?style=for-the-badge&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Streaming%20Data-111111?style=for-the-badge&logo=apachekafka&logoColor=white" />
+
+<br>
+
+### Databases & Querying
+
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/NoSQL-111111?style=for-the-badge&logo=mongodb&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Relational%20Databases-111111?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Database%20Design-111111?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL%20Analytics-111111?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<br>
+
+### Business Intelligence & Data Visualization
+
 <img src="https://img.shields.io/badge/Tableau-111111?style=for-the-badge&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/Streamlit-111111?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Data%20Visualization-111111?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Dashboards-111111?style=for-the-badge&logo=looker&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Storytelling-111111?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+
+<br>
+
+### App Development & Tools
+
+<img src="https://img.shields.io/badge/Streamlit-111111?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Interactive%20Apps-111111?style=for-the-badge&logo=python&logoColor=white" />
 
 <br><br>
@@ -51,8 +113,8 @@ My work combines **mathematical modelling**, **programming**, **analytics**, and
 <img src="https://img.shields.io/badge/Optimization-111111?style=for-the-badge&logo=thealgorithms&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Mathematical%20Modelling-111111?style=for-the-badge&logo=wolframmathematica&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Engineering-111111?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Analysis-111111?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 
 <br><br>
 
@@ -140,7 +202,8 @@ My work combines **mathematical modelling**, **programming**, **analytics**, and
       <p>
         <strong>MSc Business Analytics & Data Science</strong><br>
         Coursework in business analytics, statistical modelling, machine learning,
-        data visualization, and data-driven strategy.
+        data visualization, data-driven strategy, big data, data engineering,
+        and modern analytics tools.
       </p>
     </td>
     <td width="50%">
