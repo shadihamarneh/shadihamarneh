@@ -54,15 +54,19 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
 
 <br>
 
-### Big Data & Data Engineering
+### Big Data, Data Engineering & Analytics Engineering
 
 <img src="https://img.shields.io/badge/Apache%20Spark-111111?style=for-the-badge&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20Kafka-111111?style=for-the-badge&logo=apachekafka&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20NiFi-111111?style=for-the-badge&logo=apache&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Hadoop-111111?style=for-the-badge&logo=apachehadoop&logoColor=white" />
+<img src="https://img.shields.io/badge/dbt-111111?style=for-the-badge&logo=dbt&logoColor=white" />
 <img src="https://img.shields.io/badge/Data%20Pipelines-111111?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/ETL-111111?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/ELT-111111?style=for-the-badge&logo=dbt&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Transformation-111111?style=for-the-badge&logo=dbt&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Distributed%20Computing-111111?style=for-the-badge&logo=apache&logoColor=white" />
 <img src="https://img.shields.io/badge/Databricks-111111?style=for-the-badge&logo=databricks&logoColor=white" />
@@ -73,7 +77,6 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
 <img src="https://img.shields.io/badge/Data%20Ingestion-111111?style=for-the-badge&logo=apache&logoColor=white" />
 
 <br>
-
 
 ### Databases & Querying
 
@@ -119,7 +122,11 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
 <br>
 <img src="https://img.shields.io/badge/Mathematical%20Modelling-111111?style=for-the-badge&logo=wolframmathematica&logoColor=white" />
 <img src="https://img.shields.io/badge/Data%20Engineering-111111?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Analytics%20Engineering-111111?style=for-the-badge&logo=dbt&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Driven%20Strategy-111111?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Business%20Intelligence-111111?style=for-the-badge&logo=powerbi&logoColor=white" />
 
 <br><br>
 
@@ -208,7 +215,7 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
         <strong>MSc Business Analytics & Data Science</strong><br>
         Coursework in business analytics, statistical modelling, machine learning,
         data visualization, data-driven strategy, big data, data engineering,
-        and modern analytics tools.
+        analytics engineering, and modern data tools.
       </p>
     </td>
     <td width="50%">
@@ -226,11 +233,58 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
 
 ## Certifications & Coursework
 
+<img src="https://img.shields.io/badge/dbt%20Fundamentals-111111?style=for-the-badge&logo=dbt&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Build%20Tool%20(DBT)-111111?style=for-the-badge&logo=dbt&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/Cybersecurity%20Risk%20Management-111111?style=for-the-badge&logo=securityscorecard&logoColor=white" />
 <img src="https://img.shields.io/badge/Cybersecurity%20Standards%20%26%20Strategy-111111?style=for-the-badge&logo=owasp&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%20101-111111?style=for-the-badge&logo=openai&logoColor=white" />
 
 <br><br>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>dbt Fundamentals</h3>
+      <p>
+        <strong>Issued by:</strong> dbt Labs<br>
+        <strong>Issued:</strong> June 2026<br>
+        <strong>Credential ID:</strong> 189596006
+      </p>
+      <p>
+        Skills: Data Build Tool (dbt), SQL, analytics engineering,
+        data transformation, and modern data workflows.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Cybersecurity Risk Management</h3>
+      <p>
+        Completed through UBC with a grade of 91%. Covered data breach impact analysis,
+        threat vector identification, open-source cybersecurity evaluation, and
+        incident-response communication planning.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Cybersecurity Standards & Strategy</h3>
+      <p>
+        Completed through UBC with a grade of 100%. Developed an organization-level
+        cybersecurity policy document aligned with business and technical requirements.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>AI 101</h3>
+      <p>
+        IE University pre-course for the MSc Business Analytics & Data Science program,
+        focused on AI trends and responsible AI adoption.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ## GitHub Stats
 
