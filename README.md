@@ -234,9 +234,6 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
 ## Certifications & Coursework
 
 <img src="https://img.shields.io/badge/dbt%20Fundamentals-111111?style=for-the-badge&logo=dbt&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Build%20Tool%20(DBT)-111111?style=for-the-badge&logo=dbt&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/Cybersecurity%20Risk%20Management-111111?style=for-the-badge&logo=securityscorecard&logoColor=white" />
 <img src="https://img.shields.io/badge/Cybersecurity%20Standards%20%26%20Strategy-111111?style=for-the-badge&logo=owasp&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%20101-111111?style=for-the-badge&logo=openai&logoColor=white" />
