@@ -227,7 +227,21 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
         built using Microsoft Small Basic.
       </p>
     </td>
-    <td width="50%"></td>
+    <td width="50%">
+      <h3>Campaign Planning Agent</h3>
+      <p>
+        A spec-driven AI agent built for the <em>Big Data & AI in Marketing</em> course that turns
+        a brand, product, audience, goal, and budget into a complete marketing campaign brief.
+        The agent runs six ordered steps &mdash; funnel-stage classification, channel selection,
+        budget allocation, KPI targeting, keyword generation, and brief writing &mdash; calling the
+        Anthropic API live at each step, with numeric constraints (budget splits, ROAS) always
+        re-verified in Python rather than trusted from the model.
+      </p>
+      <p>
+        <strong>Tech:</strong> Python, Anthropic API, Spec-Driven Development
+      </p>
+      <a href="https://github.com/TinaJ050598/campaign-planning-agent">View Repository</a>
+    </td>
   </tr>
 </table>
 
