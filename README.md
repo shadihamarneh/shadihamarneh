@@ -198,11 +198,18 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
   </tr>
   <tr>
     <td width="50%">
-      <h3>Bot-Removal Compliance Tool</h3>
+      <h3>BotHunter — Bot-Removal Compliance Tool</h3>
       <p>
-        Designed during the IE University Tech Venture Bootcamp to address bot
-        removal from X/Twitter with EU regulatory compliance. Finished 4th place.
+        An AI-powered bot detection platform built during the IE University Tech Venture
+        Bootcamp to help businesses identify fake/bot accounts on X (Twitter), optimize
+        marketing spend, and stay within EU regulatory compliance. A scikit-learn ML
+        pipeline classifies accounts with 90%+ confidence, surfaced through an interactive
+        React dashboard. Finished 4th place.
       </p>
+      <p>
+        <strong>Tech:</strong> Python, Scikit-learn, React, Tailwind CSS, Recharts
+      </p>
+      <a href="https://github.com/moanv2/TVB_IE2025">View Repository</a>
     </td>
     <td width="50%">
       <h3>Additional Python Projects</h3>
