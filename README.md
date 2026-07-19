@@ -276,6 +276,29 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
       <a href="https://github.com/ricardo-lievano-pedroza/1-mlops-kickoff-repo">View Repository</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" colspan="2">
+      <h3>City Comfort Index — Analytics Engineering Capstone</h3>
+      <p>
+        An end-to-end analytics engineering pipeline ranking 58 Spanish cities by weather
+        comfort, built on Open-Meteo data: <strong>Open-Meteo APIs → Python extraction → DuckDB →
+        dbt (staging → intermediate → marts) → Streamlit dashboard</strong>. The dbt project runs
+        17 models across a three-layer star schema (146 passing checks), exercising seeds, macros,
+        window functions (gaps-and-islands streaks, seasonal z-scores), unit tests, model
+        contracts, an incremental model, source freshness checks, and a declared dashboard
+        exposure. The live dashboard's "find your ideal city" planner ranks all 58 cities by
+        warmth, comfort, air quality, and calm, alongside four-season, extreme-event, and
+        forecast-accuracy views.
+      </p>
+      <p>
+        <strong>Tech:</strong> Python, DuckDB, dbt Core (dbt_utils, dbt_expectations, dbt_date),
+        Streamlit, Plotly, GitHub Actions CI
+      </p>
+      <a href="https://github.com/moanv2/analytics-engineering-fp">View Repository</a>
+      ·
+      <a href="https://city-comfort-index.streamlit.app">Live Dashboard</a>
+    </td>
+  </tr>
 </table>
 
 <br>
