@@ -135,6 +135,24 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
 <table>
   <tr>
     <td width="50%">
+      <h3>Procurement Intelligence — Microsoft Capstone</h3>
+      <p>
+        An end-to-end data platform built on Databricks that turns the EU's public procurement
+        feed (TED) into a daily commercial advantage for Microsoft. A medallion (Bronze/Silver/Gold)
+        pipeline ingests and models tender data with dbt, an XGBoost model scores every open IT
+        tender for opportunity, and a grounded LLM Procurement Copilot answers natural language
+        questions over a seven-page Streamlit dashboard. Fully automated end to end, refreshed daily.
+      </p>
+      <p>
+        <strong>Tech:</strong> Databricks, Delta Lake, dbt, XGBoost, Streamlit, LLM Agent, lxml
+      </p>
+      <a href="https://github.com/npbeard/procurement-intelligence">View Repository</a>
+      ·
+      <a href="https://omarajlouni.github.io/ted-procurement-presentation/">View Presentation</a>
+      ·
+      <a href="https://procurement-intelligence-8kbgrdyhqqyawctlix4uvl.streamlit.app/">Live Dashboard</a>
+    </td>
+    <td width="50%">
       <h3>Pokémon Streamlit Battle Simulator</h3>
       <p>
         A Python and Streamlit project built during my MSc Business Analytics & Data Science
@@ -147,6 +165,8 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
         View Repository
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>Guess Who? — Java Game</h3>
       <p>
@@ -157,8 +177,6 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
         View Project
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>Mathematical Modelling Suite</h3>
       <p>
@@ -177,6 +195,8 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
         MATH 461
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>Bot-Removal Compliance Tool</h3>
       <p>
@@ -184,8 +204,6 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
         removal from X/Twitter with EU regulatory compliance. Finished 4th place.
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>Additional Python Projects</h3>
       <p>
@@ -193,6 +211,8 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
         stochastic modelling, and data-driven modelling projects.
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>Additional Early Projects</h3>
       <p>
@@ -200,6 +220,7 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
         built using Microsoft Small Basic.
       </p>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
