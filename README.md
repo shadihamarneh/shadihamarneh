@@ -243,6 +243,39 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
       <a href="https://github.com/TinaJ050598/campaign-planning-agent">View Repository</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3>Iberdrola Datathon — Intelligent Electric Mobility</h3>
+      <p>
+        A fully reproducible, open-data pipeline mapping where Spain should build its next 241
+        EV fast-charging stations &mdash; and which ones can actually connect to the grid.
+        Combined nine open datasets (DGT, CNIG, MITMA, AEMET, i-DE/Endesa/Viesgo grid capacity)
+        through a 6-stage pipeline: EV demand forecasting (exponential fit to ~791K BEVs by 2027),
+        road network filtering, existing charger baseline, KD-tree grid-capacity matching,
+        climate/rest-stop/gas-station enrichment, and greedy climate-adjusted placement optimization.
+        Found that 97% of proposed sites face grid capacity constraints, informing a phased
+        deployment roadmap for Iberdrola.
+      </p>
+      <p>
+        <strong>Tech:</strong> Python, scipy (curve fitting), KD-tree spatial matching, GIS/EPSG:25830,
+        Open Data Pipelines
+      </p>
+    </td>
+    <td width="50%">
+      <h3>MLOps Kickoff — Madrid Rental Price Forecasting</h3>
+      <p>
+        A production-style MLOps pipeline predicting fair rental prices for Madrid properties,
+        built for the MLOps course. Strict separation between notebook "sandbox" and a modular
+        <code>src/</code> production pipeline, with a scikit-learn linear regression model served
+        via FastAPI, experiment tracking and artifact logging through Weights & Biases, unit tests,
+        Docker containerization, GitHub Actions CI, and live deployment on Render.
+      </p>
+      <p>
+        <strong>Tech:</strong> Python, Scikit-learn, FastAPI, Weights & Biases, Docker, GitHub Actions
+      </p>
+      <a href="https://github.com/ricardo-lievano-pedroza/1-mlops-kickoff-repo">View Repository</a>
+    </td>
+  </tr>
 </table>
 
 <br>
