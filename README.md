@@ -221,13 +221,6 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
   </tr>
   <tr>
     <td width="50%">
-      <h3>Additional Early Projects</h3>
-      <p>
-        Solar system simulation and a three-lane obstacle-dodging game
-        built using Microsoft Small Basic.
-      </p>
-    </td>
-    <td width="50%">
       <h3>Campaign Planning Agent</h3>
       <p>
         A spec-driven AI agent built for the <em>Big Data & AI in Marketing</em> course that turns
@@ -242,8 +235,6 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
       </p>
       <a href="https://github.com/TinaJ050598/campaign-planning-agent">View Repository</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>Iberdrola Datathon — Intelligent Electric Mobility</h3>
       <p>
@@ -262,7 +253,9 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
       </p>
       <a href="https://drive.google.com/file/d/15_RaNIvEAzmb2_AcEJmveWSJtM0q7Iin/view?usp=sharing">Download ZIP</a>
     </td>
-    <td width="50%">
+  </tr>
+  <tr>
+    <td width="50%" colspan="2">
       <h3>MLOps Kickoff — Madrid Rental Price Forecasting</h3>
       <p>
         A production-style MLOps pipeline predicting fair rental prices for Madrid properties,
@@ -298,6 +291,15 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
       <a href="https://github.com/moanv2/analytics-engineering-fp">View Repository</a>
       ·
       <a href="https://city-comfort-index.streamlit.app">Live Dashboard</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" colspan="2">
+      <h3>Additional Early Projects</h3>
+      <p>
+        Solar system simulation and a three-lane obstacle-dodging game
+        built using Microsoft Small Basic.
+      </p>
     </td>
   </tr>
 </table>
