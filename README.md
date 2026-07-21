@@ -260,6 +260,7 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
         <strong>Tech:</strong> Python, scipy (curve fitting), KD-tree spatial matching, GIS/EPSG:25830,
         Open Data Pipelines
       </p>
+      <a href="https://drive.google.com/file/d/15_RaNIvEAzmb2_AcEJmveWSJtM0q7Iin/view?usp=sharing">Download ZIP</a>
     </td>
     <td width="50%">
       <h3>MLOps Kickoff — Madrid Rental Price Forecasting</h3>
