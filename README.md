@@ -255,7 +255,7 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
     </td>
   </tr>
   <tr>
-    <td width="50%" colspan="2">
+    <td width="50%">
       <h3>MLOps Kickoff — Madrid Rental Price Forecasting</h3>
       <p>
         A production-style MLOps pipeline predicting fair rental prices for Madrid properties,
@@ -269,9 +269,7 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
       </p>
       <a href="https://github.com/ricardo-lievano-pedroza/1-mlops-kickoff-repo">View Repository</a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" colspan="2">
+    <td width="50%">
       <h3>City Comfort Index — Analytics Engineering Capstone</h3>
       <p>
         An end-to-end analytics engineering pipeline ranking 58 Spanish cities by weather
