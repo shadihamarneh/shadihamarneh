@@ -293,6 +293,23 @@ My work combines **mathematical modelling**, **programming**, **analytics**, **m
   </tr>
   <tr>
     <td width="50%" colspan="2">
+      <h3>Streaming Platform Database — SQL II Project</h3>
+      <p>
+        A relational database design for a media-streaming service (movies, TV series, users,
+        subscriptions, payments, and engagement), built with a full DDL/DML and a color-coded
+        ERD organized into lookup, user/subscription, content-catalog, many-to-many association,
+        billing, and engagement subgroups. Includes a set of analytical business-question queries
+        (e.g. trending content by likes, revenue by genre over time, top subscription countries,
+        top actors by engagement) covering joins, aggregation, and date-based grouping.
+      </p>
+      <p>
+        <strong>Tech:</strong> SQL (DDL/DML), MySQL Workbench, Relational Database Design, ERD
+      </p>
+      <a href="https://drive.google.com/file/d/17Bp7a5r6xzna8JyLwyxjjSIxSbTamUoh/view?usp=sharing">Download ZIP</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" colspan="2">
       <h3>Additional Early Projects</h3>
       <p>
         Solar system simulation and a three-lane obstacle-dodging game
